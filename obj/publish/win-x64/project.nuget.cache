@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBteCLkdoAk=",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\GameScanner\\GameScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandru\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Alexandru\\.nuget\\packages\\htmlagilitypack\\1.12.2\\htmlagilitypack.1.12.2.nupkg.sha512",
+    "C:\\Users\\Alexandru\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.18\\microsoft.net.illink.tasks.8.0.18.nupkg.sha512",
+    "C:\\Users\\Alexandru\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Alexandru\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

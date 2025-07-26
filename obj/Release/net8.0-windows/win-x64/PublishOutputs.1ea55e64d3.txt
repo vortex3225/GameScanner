@@ -1,0 +1,5 @@
+D:\C# Projects\Gamescanner\GameScanner.pdb
+D:\C# Projects\Gamescanner\gamescanner.db
+D:\C# Projects\Gamescanner\GameScanner.dll.config
+D:\C# Projects\Gamescanner\SQLite.Interop.dll
+D:\C# Projects\Gamescanner\GameScanner.exe

@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\GameScanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\gamescanner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:gamescanner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\siteaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:siteaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\sitegetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:sitegetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|D:\\Repos\\GameScanner\\siteaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:siteaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\siteobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:siteobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|d:\\repos\\gamescanner\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F5453-2F0F-464B-A0EA-4170DAC4621A}|GameScanner.csproj|solutionrelative:dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameScanner",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\GameScanner.csproj",
+              "RelativeDocumentMoniker": "GameScanner.csproj",
+              "ToolTip": "D:\\Repos\\GameScanner\\GameScanner.csproj",
+              "RelativeToolTip": "GameScanner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T19:51:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:22:29.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SiteGetter.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\SiteGetter.cs",
+              "RelativeDocumentMoniker": "SiteGetter.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\SiteGetter.cs",
+              "RelativeToolTip": "SiteGetter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:10:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiteAddForm.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\SiteAddForm.cs",
+              "RelativeDocumentMoniker": "SiteAddForm.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\SiteAddForm.cs",
+              "RelativeToolTip": "SiteAddForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:14:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SiteAddForm.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\SiteAddForm.cs",
+              "RelativeDocumentMoniker": "SiteAddForm.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\SiteAddForm.cs [Design]",
+              "RelativeToolTip": "SiteAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:41:35.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SiteObject.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\SiteObject.cs",
+              "RelativeDocumentMoniker": "SiteObject.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\SiteObject.cs",
+              "RelativeToolTip": "SiteObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:58:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\DatabaseHandler.cs",
+              "RelativeDocumentMoniker": "DatabaseHandler.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\DatabaseHandler.cs",
+              "RelativeToolTip": "DatabaseHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:49:01.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:46:41.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:42:38.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "D:\\Repos\\GameScanner\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor.cs",
+              "ToolTip": "D:\\Repos\\GameScanner\\DataProcessor.cs",
+              "RelativeToolTip": "DataProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:57:47.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
